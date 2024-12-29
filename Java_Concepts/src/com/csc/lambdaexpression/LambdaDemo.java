@@ -21,7 +21,7 @@ public class LambdaDemo {
 		
 		s2.show();
 				
-			
+			System.out.println("Adding a new line");
 		
 
 		
